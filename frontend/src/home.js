@@ -161,6 +161,7 @@ export const ImageUpload = () => {
         url: process.env.REACT_APP_API_URL,
         data: formData,
       });
+      console.log(res.data)
       if (res.status === 200) {
         setData(res.data);
       }
