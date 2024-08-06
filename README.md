@@ -1,4 +1,4 @@
-### Potato Disease Classification
+# Potato Disease Classification
 
 In the agricultural sector, potato cultivation is vital to the economy and food supply. However,
 potato plants are susceptible to diseases that can significantly impact yield and quality. Among the
